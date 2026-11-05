@@ -1,6 +1,6 @@
 # Sales Performance Analytics Dashboard (Excel)
 
-An interactive Excel dashboard that turns one year of sales data into clear answers for 9 business questions, with insights and recommendations for the business.
+An interactive Excel dashboard that turns one year of sales data into clear answers for business questions, with insights and recommendations for the business.
 
 ---
 
