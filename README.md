@@ -1,4 +1,4 @@
-# Sales Performance Analytics (Excel)
+# Sales Performance Analysis
 
 An interactive Excel dashboard that turns one year of sales data into clear answers for business questions, with insights and recommendations for the business.
 
