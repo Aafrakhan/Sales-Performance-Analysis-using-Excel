@@ -102,3 +102,6 @@ Using the Month slicer, May and June were compared:
 4. **Raise order value.** Use bundles and upselling in low-value months, especially December and February.
 5. **Lift orders in slow months.** Run offers in June and October.
 6. **Reward loyal customers.** Create a loyalty offer for top customers and encourage repeat orders from the rest.
+
+⭐ If you like this project, please give it a star!
+
